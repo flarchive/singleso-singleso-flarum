@@ -2,13 +2,16 @@
 
 > **Read-only archive of released versions of singleso/singleso-flarum.** Not for installation: use [Packagist](https://packagist.org/packages/singleso/singleso-flarum) or the [upstream repository](https://github.com/SingleSO/singleso-flarum).
 
-**0** versions archived · Latest: [`1.0.3`](https://github.com/flarchive/singleso-singleso-flarum/tree/archive/v1.0.3) · License: `MPL-2.0` · Flarum: `^0.1.0-beta.5`
+**4** versions archived · Latest: [`1.0.3`](https://github.com/flarchive/singleso-singleso-flarum/tree/archive/v1.0.3) · License: `MPL-2.0` · Flarum: `^0.1.0-beta.5`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2016-07-28 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/singleso-singleso-flarum/tree/archive/v1.0.0) |
+| `1.0.1` | 2016-07-29 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/singleso-singleso-flarum/tree/archive/v1.0.1) |
+| `1.0.2` | 2016-07-29 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/singleso-singleso-flarum/tree/archive/v1.0.2) |
+| `1.0.3` | 2016-07-29 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/singleso-singleso-flarum/tree/archive/v1.0.3) |
 
 Catalog entry: [packages/singleso-singleso-flarum.json](https://github.com/flarchive/archive-index/blob/main/packages/singleso-singleso-flarum.json)
 
